@@ -5,7 +5,7 @@ from pacotes import back as bk
 from pacotes import front as ft 
 
 dados = ft.entrada()
-if not dados == False:
+if len(dados) != 0:
     dados_lista = list(dados.values())
     caminho = dados_lista[0]
     extensao = dados_lista[5]
