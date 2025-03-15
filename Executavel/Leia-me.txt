@@ -1,0 +1,7 @@
+Este é um conversor simples de imagens que permite:
+
+Selecionar uma pasta e converter todas as imagens para um único formato.
+Definir tamanho máximo e mínimo de pixels para as imagens convertidas.
+Substituir as imagens originais (as imagens alteradas são salvas na pasta e as originais são apagadas).
+
+OBS: As imagens originais serão removidas após a conversão, então faça um backup se necessário.
