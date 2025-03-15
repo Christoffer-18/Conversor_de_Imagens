@@ -1,5 +1,5 @@
 '''
-Start onde começa o programa e onde faz pequeas verificações.
+Start onde começa o programa e onde faz pequenas verificações.
 '''
 from pacotes import back as bk 
 from pacotes import front as ft 
